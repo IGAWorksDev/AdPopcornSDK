@@ -1,5 +1,9 @@
 # AdPopcornSDK
   # 1. Android ChangeLog
+  - v2.2.7a
+    * 리워드 비디오 complete event 통합.
+    * 전면 광고 클릭 시, 비주기 랜딩 오류 이슈 수정.
+    
   - v2.2.6a
     * CustomAd 기능 추가
     * CS 문의 시, USN 자동 처리 기능 추가
