@@ -17,6 +17,9 @@
     * 리워드 비디오 광고 완료 로그 수집 및 문의 기능 추가
 
   # 2. iOS ChangeLog
+  - v2.1.5
+    * RewardVideoAd complete delegate 변경
+    
   - v2.1.4
     * CustomAd 기능 추가
     
