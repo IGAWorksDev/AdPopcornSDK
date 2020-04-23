@@ -1,4 +1,4 @@
-# AdPopcornSDK
+# AdPopcorn SSP SDK
   # 1. Android ChangeLog
   - v2.2.7a
     * 리워드 비디오 complete event 통합.
@@ -21,6 +21,12 @@
     * 리워드 비디오 광고 완료 로그 수집 및 문의 기능 추가
 
   # 2. iOS ChangeLog
+  - v2.1.7
+    * 네이티브 광고 수동 클릭 API 추가
+    
+  - v2.1.6
+    * 네이티브 광고 CTA 기능 추가
+    
   - v2.1.5
     * RewardVideoAd complete delegate 변경
     
