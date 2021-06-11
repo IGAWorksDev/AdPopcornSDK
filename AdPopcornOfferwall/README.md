@@ -1,5 +1,9 @@
 # AdPopcorn Offerwall SDK
   # 1. Android ChangeLog
+  - v7.0.8a
+    * 설치형 체크 로직 변경
+    * 기타 UI 이슈 수정
+    
   - v7.0.7a
     * 가로 모드 광고 2개 이하 노출 시, 오류 수정
     * 원스토어 오퍼월 UI 커스텀 대응
