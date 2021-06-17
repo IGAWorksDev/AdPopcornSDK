@@ -1,5 +1,8 @@
 # AdPopcorn SSP SDK
   # 1. Android ChangeLog
+  - v2.4.8a
+    * Vast Video 지원
+    
   - v2.4.7a
     * Pangle, FAN 전면 비디오 광고 타입 연동
     * Cauly 3.5.16 호환성 대응
@@ -14,9 +17,6 @@
   - 2.4.4a
     * Pangle RV 지원
     * Banner, Interstitial 클릭 이벤트 리스너 지원
-  
-  - v2.4.3a
-    * 네이티브 광고 info 마크 on/off 기능 추가
 
   # 2. iOS ChangeLog
   - v2.3.2
