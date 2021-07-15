@@ -1,5 +1,8 @@
 # AdPopcorn SSP SDK
   # 1. Android ChangeLog
+  - v2.4.9a
+    * Mobon Native 미디에이션 지원
+    
   - v2.4.8a
     * Vast Video 지원
     
