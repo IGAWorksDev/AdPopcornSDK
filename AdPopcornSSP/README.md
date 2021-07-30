@@ -1,5 +1,11 @@
 # AdPopcorn SSP SDK
   # 1. Android ChangeLog
+  - v2.5.0a
+    * AdPopcorn SSP 전면 비디오 이벤트 처리 오류 수정
+    
+  - v2.4.10a
+    * Mezzo Banner 노출 오류 수정
+    
   - v2.4.9a
     * Mobon Native 미디에이션 지원
     
@@ -13,13 +19,6 @@
   - v2.4.6a
     * Admob v20.1.0 호환성 대응
     * MezzoMedia banner 노출 이슈 수정
-
-  - v2.4.5a
-    * Pangle RV 광고 cache 이슈 대응
-
-  - 2.4.4a
-    * Pangle RV 지원
-    * Banner, Interstitial 클릭 이벤트 리스너 지원
 
   # 2. iOS ChangeLog
   - v2.3.2
