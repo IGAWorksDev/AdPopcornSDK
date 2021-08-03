@@ -1,5 +1,9 @@
 # AdPopcorn Offerwall SDK
   # 1. Android ChangeLog
+  - v7.0.9a
+    * viewType 오퍼월 콜백 이벤트 발생 조건 수정
+    * 기타 UI 이슈 수정
+    * 
   - v7.0.8a
     * 설치형 체크 로직 변경
     * 기타 UI 이슈 수정
