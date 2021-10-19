@@ -1,5 +1,14 @@
 # AdPopcorn SSP SDK
   # 1. Android ChangeLog
+  - v3.0.1a
+    * 일부 지면 타입의 imp, click 수집 로직 수정
+    * 전면 비디오 x 버튼 노출 조건 변경
+    * 
+  - v3.0.0a
+    * class name 변경
+    * FB 인앱 비딩 로직 추가(리워드 비디오, 전면, 전면 비디오)
+    * 전면 최소 노출 시간 관련 옵션 처리
+    * 
   - v2.5.0a
     * AdPopcorn SSP 전면 비디오 이벤트 처리 오류 수정
     
@@ -11,14 +20,6 @@
     
   - v2.4.8a
     * Vast Video 지원
-    
-  - v2.4.7a
-    * Pangle, FAN 전면 비디오 광고 타입 연동
-    * Cauly 3.5.16 호환성 대응
-    
-  - v2.4.6a
-    * Admob v20.1.0 호환성 대응
-    * MezzoMedia banner 노출 이슈 수정
 
   # 2. iOS ChangeLog
   - v2.3.2
