@@ -1,25 +1,11 @@
 # AdPopcorn SSP SDK
   # 1. Android ChangeLog
-  - v3.0.1a
-    * 일부 지면 타입의 imp, click 수집 로직 수정
-    * 전면 비디오 x 버튼 노출 조건 변경
-    * 
-  - v3.0.0a
-    * class name 변경
-    * FB 인앱 비딩 로직 추가(리워드 비디오, 전면, 전면 비디오)
-    * 전면 최소 노출 시간 관련 옵션 처리
-    * 
-  - v2.5.0a
-    * AdPopcorn SSP 전면 비디오 이벤트 처리 오류 수정
+  - v3.0.7a
+    * UnityAds 미디에이션 콜백 이벤트 처리 로직 변경
     
-  - v2.4.10a
-    * Mezzo Banner 노출 오류 수정
-    
-  - v2.4.9a
-    * Mobon Native 미디에이션 지원
-    
-  - v2.4.8a
-    * Vast Video 지원
+  - v3.0.6a
+    * GAM 미디에이션 일부 class 변경
+    * mopub custom network report 기능 변경
 
   # 2. iOS ChangeLog
   - v2.3.2
