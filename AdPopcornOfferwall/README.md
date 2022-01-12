@@ -1,5 +1,10 @@
 # AdPopcorn Offerwall SDK
   # 1. Android ChangeLog
+  - 8.0.1a
+    * class import path 및 naming 변경
+    * cpm 오퍼월 타입 추가   
+    * Android 12 ADID 관련 퍼미션 추가
+    
   - v7.0.9a
     * viewType 오퍼월 콜백 이벤트 발생 조건 수정
     * 기타 UI 이슈 수정
@@ -11,15 +16,6 @@
   - v7.0.7a
     * 가로 모드 광고 2개 이하 노출 시, 오류 수정
     * 원스토어 오퍼월 UI 커스텀 대응
-
-  - v7.0.6a
-    * Android 11 설치형 체크 로직 개선
-
-  - v7.0.5a
-    * SDK 내 res 파일 접근 방식 변경
-  
-  - v7.0.4a
-    * 가로모드 하단 바 고객센터 노출 오류 수정
 
   # 2. iOS ChangeLog
   - v4.1.9
