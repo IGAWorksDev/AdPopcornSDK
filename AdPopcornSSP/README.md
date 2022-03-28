@@ -1,5 +1,19 @@
 # AdPopcorn SSP SDK
   # 1. Android ChangeLog
+  - 3.0.12a
+   * Mute 기능 추가
+   * 비디오 resume 로직 변경
+   
+  - 3.0.10a
+   * 미디에이션 광고 연동 추가(벙글, 앱러빈)
+   * 전면 광고 close event delay 이슈 대응
+   * 유니티 네이비트 광고 타입 지원
+   
+  - 3.0.8a
+    * Android 12 ADID 권한 옵션 추가 
+    * GAM Ui Thread 이슈 대응
+    * DeepLink 처리 로직 추가
+    * 
   - v3.0.7a
     * UnityAds 미디에이션 콜백 이벤트 처리 로직 변경
     
