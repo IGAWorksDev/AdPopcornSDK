@@ -1,5 +1,15 @@
 # AdPopcorn Offerwall SDK
   # 1. Android ChangeLog
+  - 8.0.4a
+    * 뉴스 적립 광고 타입 추가
+    
+  - 8.0.3a
+    * Native CPM 광고 타입 추가
+    * 애드팝콘 자체 CPM 광고 추가
+  
+  - 8.0.2a
+    * CPM 참여 이력 관리
+    
   - 8.0.1a
     * class import path 및 naming 변경
     * cpm 오퍼월 타입 추가   
