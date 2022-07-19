@@ -1,5 +1,11 @@
 # AdPopcorn SSP SDK
   # 1. Android ChangeLog
+  - 3.0.18a
+    * Adfit BizBoard 연동 추가
+    * Vungle 인앱 비딩 추가
+    * Cauly 배너 사이즈(320x100, 300x250) 추가
+    * Coupang 배너, 전면 신규 연동
+    
   - 3.0.17a
     * Appier 웹뷰 랜딩 로직 추가
     * 컴패니언 템플릿 변경 및 추가
