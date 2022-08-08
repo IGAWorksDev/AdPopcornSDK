@@ -1,5 +1,8 @@
 # AdPopcorn Offerwall SDK
   # 1. Android ChangeLog
+  - 8.0.5a
+    * 뉴스 리워드 적립 조건 UI 변경    
+    
   - 8.0.4a
     * 뉴스 적립 광고 타입 추가
     
