@@ -1,5 +1,22 @@
 # AdPopcorn SSP SDK
   # 1. Android ChangeLog
+  - 3.1.2a
+    * adfit, coupang 최소 지원 버전 체크 로직 추가
+    * pangle 최신 버전 호환성 대응(3.6.0.9)
+    * 배너-네이티브, 전면-네이티브 지원
+    
+  - 3.1.1a
+    * 벙글 인앱 비딩 리포팅 오류 수정
+    
+  - 3.1.0a
+    * 미디에이션 + 인앱 비딩 Mix 지면 오류 수정
+    
+  - 3.0.20a
+    * 벙글 인앱 비딩 오류 수정
+    
+  - 3.0.19a
+    * pangle 미디에이션 연동 키 오류 수정
+    
   - 3.0.18a
     * Adfit BizBoard 연동 추가
     * Vungle 인앱 비딩 추가
