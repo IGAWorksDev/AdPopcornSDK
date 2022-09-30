@@ -63,6 +63,16 @@
     * mopub custom network report 기능 변경
 
   # 2. iOS ChangeLog
+  - v2.4.2
+    * vast player 기능 지원 
+    * 전면 광고 close 이벤트 발생 오류 수정
+    
+  - v2.4.1
+    * 네이티브 asset 중 privacy icon 관련 커스터마이징 기능 추가
+    
+  - v2.4.0
+    * 미디에이션 호환성 업데이트(pangle, admob, google ad manager, adfit, applovin, fan, cauly)
+    
   - v2.3.9
     * RV CS 컨트롤러 탑바 이슈 수정
   
