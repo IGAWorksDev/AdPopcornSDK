@@ -1,5 +1,9 @@
 # AdPopcorn Offerwall SDK
   # 1. Android ChangeLog
+- 8.0.7a
+    * 뉴스 적립 조건 관련 수정
+    * 일부 매체 커스터마이징 
+  
 - 8.0.6a
     * Native CPM 커스터마이징 옵션 추가
   
