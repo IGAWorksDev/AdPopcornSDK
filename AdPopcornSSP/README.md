@@ -1,5 +1,9 @@
 # AdPopcorn SSP SDK
   # 1. Android ChangeLog
+  - 3.1.3a
+    * Naver Ad Manager 미디에이션 추가
+    * TapJoy 인앱 비딩 지원
+    
   - 3.1.2a
     * adfit, coupang 최소 지원 버전 체크 로직 추가
     * pangle 최신 버전 호환성 대응(3.6.0.9)
