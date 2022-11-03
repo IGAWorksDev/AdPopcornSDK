@@ -1,5 +1,11 @@
 # AdPopcorn SSP SDK
   # 1. Android ChangeLog
+  - 3.1.5a
+    * GAM 네이티브 미디에이션 로드 중복 이슈 수정
+    
+  - 3.1.4a
+    * 네이티브 이미지 다운로드 방식 개선
+    
   - 3.1.3a
     * Naver Ad Manager 미디에이션 추가
     * TapJoy 인앱 비딩 지원
