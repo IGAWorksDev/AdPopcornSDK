@@ -1,5 +1,12 @@
 # AdPopcorn SSP SDK
   # 1. Android ChangeLog
+  - 3.1.7a
+    * AppLovin Max Custom Adapter 추가
+    * NAM 네이티브 로드 실패 시, 이벤트 전달 오류 수정
+    
+  - 3.1.6a
+    * NAM 전용 신규 배너 사이즈 추가
+    
   - 3.1.5a
     * GAM 네이티브 미디에이션 로드 중복 이슈 수정
     
