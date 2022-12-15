@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- 주의 사항
+1. 아래 3개의 네이티브 미디에이션 업체 중, 사용하는 업체를 제외한 나머지는 제거 혹은 주석 처리 하시기 바랍니다
+2. Adfit, NAM은 템플릿으로 제공되기에 상세 레이아웃이 필요 없으나,
+   AdPopcorn SSP의 경우 apssp_applovin_custom_adapter_nativead_apssp_layout.xml 파일에서 원하는 레이아웃으로
+   구성하실 수 있습니다.
+3. 아래 설정된 id와 layout 이름은 변경할 경우, 미디에이션이 원활하게 동작하지 않을 수 있으니, 그대로 유지해 주시기 바랍니다.
+-->
+
+<com.igaworks.ssp.part.nativead.AdPopcornSSPNativeAd
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/apssp_applovin_custom_adapter_nativead_layout_id"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+
+    <!-- AdPopopcorn SSP-->
+    <include
+        android:id="@+id/apssp_applovin_custom_adapter_nativead_apssp_view_id"
+        layout="@layout/apssp_applovin_custom_adapter_nativead_apssp_layout"/>
+
+    <!-- AdFit -->
+    <com.kakao.adfit.ads.na.AdFitBizBoardAdTemplateLayout
+        android:id="@+id/apssp_applovin_custom_adapter_nativead_adfit_view_id"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"/>
+
+    <!-- NAM(Naver Ad Manager) -->
+    <com.naver.gfpsdk.GfpNativeSimpleAdView
+        android:id="@+id/apssp_applovin_custom_adapter_nativead_nam_view_id"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+    </com.naver.gfpsdk.GfpNativeSimpleAdView>
+
+</com.igaworks.ssp.part.nativead.AdPopcornSSPNativeAd>

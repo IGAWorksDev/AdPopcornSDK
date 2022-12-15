@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- 주의 사항
+1. AdPopcornSSP Native 광고에서 제공하는 ui component 는 title, description, icon image, main image, cta
+입니다. 아래 구성 중 필요 없는 ui component는 제거해 주셔도 됩니다.
+2. 각 ui component에 설정된 id를 제외한 위치, 사이즈 등은 자유롭게 변경 가능하며 id만 반드시 그대로 유지해 주시기 바랍니다
+-->
+
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:gravity="center"
+    android:background="#FFFFFF">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:orientation="horizontal"
+        android:background="#FFFFFF">
+        <ImageView
+            android:id="@+id/apssp_applovin_custom_adapter_nativead_apssp_icon_view"
+            android:layout_width="60dp"
+            android:layout_height="60dp"
+            android:layout_margin="10dp"/>
+        <LinearLayout
+            android:layout_width="0dip"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:layout_gravity="center"
+            android:orientation="vertical">
+            <TextView
+                android:id="@+id/apssp_applovin_custom_adapter_nativead_apssp_title_view"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textColor="#000000"/>
+            <TextView
+                android:id="@+id/apssp_applovin_custom_adapter_nativead_apssp_desc_view"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:maxLines="2"
+                android:textColor="#000000"/>
+        </LinearLayout>
+        <TextView
+            android:id="@+id/apssp_applovin_custom_adapter_nativead_apssp_cta_view"
+            android:layout_width="60dp"
+            android:layout_height="30dp"
+            android:layout_marginTop="25dp"
+            android:layout_marginLeft="10dp"
+            android:layout_marginRight="10dp"
+            android:background="#3d7caf"
+            android:textColor="#ffffff"
+            android:textColorHint="#ffffff"
+            android:gravity="center"
+            android:textSize="16sp" />
+    </LinearLayout>
+    <ImageView
+        android:id="@+id/apssp_applovin_custom_adapter_nativead_apssp_main_view"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"/> <!-- 183dp-->
+</LinearLayout>
