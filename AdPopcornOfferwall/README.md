@@ -1,5 +1,12 @@
 # AdPopcorn Offerwall SDK
   # 1. Android ChangeLog
+  - 8.0.9a
+    * 신규 UI 오퍼월 릴리즈
+    
+  - 8.0.8a
+    * 롯데 멤버스 간편 적립 추가
+	  * 롯데 멤버스 RCPM 커스터마이징 추가
+    
   - 8.0.7a
     * 뉴스 적립 조건 관련 수정
     * 일부 매체 커스터마이징 
