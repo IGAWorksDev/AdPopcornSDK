@@ -83,6 +83,10 @@
     * mopub custom network report 기능 변경
 
   # 2. iOS ChangeLog
+  - 2.4.3
+    * 배너 360x185 사이즈 추가
+    * VAST Video imp, click 수집 누락 이슈 대응
+    
   - v2.4.2
     * vast player 기능 지원 
     * 전면 광고 close 이벤트 발생 오류 수정
