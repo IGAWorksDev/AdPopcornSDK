@@ -1,5 +1,8 @@
 # AdPopcorn SSP SDK
   # 1. Android ChangeLog
+  - 3.1.8a
+    * AppLovin Max Custom Adatper 관련 로그 추가
+    
   - 3.1.7a
     * AppLovin Max Custom Adapter 추가
     * NAM 네이티브 로드 실패 시, 이벤트 전달 오류 수정
