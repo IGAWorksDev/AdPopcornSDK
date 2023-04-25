@@ -1,5 +1,8 @@
 # AdPopcorn SSP SDK
   # 1. Android ChangeLog
+  - 3.2.0a
+    * 하이브리드 앱 배너, 네이티브 스크립트 연동 대응
+    
   - 3.1.8a
     * AppLovin Max Custom Adatper 관련 로그 추가
     
@@ -83,6 +86,10 @@
     * mopub custom network report 기능 변경
 
   # 2. iOS ChangeLog
+  - 2.4.4
+    * 배너 360x185 -> Adaptive Size로 변경
+    * 하이브리드 앱 배너, 네이티브 스크립트 연동 
+    
   - 2.4.3
     * 배너 360x185 사이즈 추가
     * VAST Video imp, click 수집 누락 이슈 대응
