@@ -1,5 +1,8 @@
 # AdPopcorn SSP SDK
   # 1. Android ChangeLog
+  - 3.2.1a
+    * 배너-네이티브 신규 사이즈 템플릿 
+    
   - 3.2.0a
     * 하이브리드 앱 배너, 네이티브 스크립트 연동 대응
     
@@ -86,6 +89,10 @@
     * mopub custom network report 기능 변경
 
   # 2. iOS ChangeLog
+  - 2.4.6
+    * 배너-네이티브, 전면-네이티브, 네이티브 템플릿 기능 지원
+    * 리워드/전면 비디오 비주기 크래시 이슈 수정
+    
   - 2.4.4
     * 배너 360x185 -> Adaptive Size로 변경
     * 하이브리드 앱 배너, 네이티브 스크립트 연동 
