@@ -1,5 +1,24 @@
 # AdPopcorn SSP SDK
   # 1. Android ChangeLog
+  - 3.2.5a
+    * AdaptiveSize Template 추가
+    * NAM 6.1.1 대응
+    * 비디오 광고 닫기 버튼 영역 조정 및 이미지 교체
+    * 하이브리드 스크립트 오류 수정
+    * 네이티브 템플릿 적용 시, 가로 크기에 따른 영역 조정 처리
+    
+  - 3.2.4a
+    * AdaptiveSize Template 추가
+    * NAM 네이티브 광고 내 외부 DSP 지원
+    
+  - 3.2.3a
+    * 하이브리드 웹뷰 script 오류 수정
+    * 배너-네이티브 타이틀, desc 광고 영역 오류 수정
+    * Bitmap out of memory 이슈 수정 
+    
+  - 3.2.2a
+    * AppLovin Timeout 이슈 대응
+    
   - 3.2.1a
     * 배너-네이티브 신규 사이즈 템플릿 
     
