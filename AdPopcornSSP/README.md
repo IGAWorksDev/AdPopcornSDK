@@ -1,5 +1,17 @@
 # AdPopcorn SSP SDK
   # 1. Android ChangeLog
+  - 3.2.8a
+    * NAM 이미지 배너 활용한 전면 광고 연동
+    * 전면비디오, 리워드 비디오 활용 시, timeout index 오류 수정
+    * 전면, 비디오 showAd 호출 시, main thread 여부 체크.
+    * KT 라이브러리 체크 로직 변경
+      
+  - 3.2.7a
+    * 배너-네이티브 템플리 사용 시, 임프레션 100프로 이슈 수정
+      
+  - 3.2.6a
+    * 배너-네이티브 가로 길이 오처리 수정
+      
   - 3.2.5a
     * AdaptiveSize Template 추가
     * NAM 6.1.1 대응
