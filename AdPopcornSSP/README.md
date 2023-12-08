@@ -1,5 +1,11 @@
 # AdPopcorn SSP SDK
   # 1. Android ChangeLog
+  - 3.3.1a
+    * ReactNative 네이티브 크기 조절 지원
+    * 하이브리드 내 WebData 스크립트 대응
+    * 전면, 비디오 Activity onConfigurationChanged 이벤트 관련 처리 추가
+    * 중복 load 요청에 대한 로직 개선
+      
   - 3.3.0a
     * 스플래시 광고 타입 추가
     * ReactNative 네이티브 광고 지원
@@ -127,6 +133,11 @@
     * mopub custom network report 기능 변경
 
   # 2. iOS ChangeLog 
+  - 2.5.5
+    * ReactNative 네이티브 크기 조절 지원
+    * 하이브리드 내 WebData 스크립트 대응
+    * 중복 load 요청에 대한 로직 개선
+
   - 2.5.4
     * 리액트 네이티브 플러그인용 네이티브 지원
     * 스플래시 지원
