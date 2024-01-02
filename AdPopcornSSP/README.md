@@ -1,5 +1,8 @@
 # AdPopcorn SSP SDK
   # 1. Android ChangeLog
+  - 3.3.2a
+    * SDK 미디에이션 초기화 관련 로직 변경
+      
   - 3.3.1a
     * ReactNative 네이티브 크기 조절 지원
     * 하이브리드 내 WebData 스크립트 대응
@@ -133,6 +136,9 @@
     * mopub custom network report 기능 변경
 
   # 2. iOS ChangeLog 
+  - 2.5.6
+    * 전면 광고 백그라운드 색상 변경 옵션 추가
+      
   - 2.5.5
     * ReactNative 네이티브 크기 조절 지원
     * 하이브리드 내 WebData 스크립트 대응
