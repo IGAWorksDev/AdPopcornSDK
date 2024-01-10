@@ -1,5 +1,8 @@
 # AdPopcorn SSP SDK
   # 1. Android ChangeLog
+  - 3.3.3a
+    * NAM 네이티브 광고 숨김 처리 관련 이벤트 추가
+      
   - 3.3.2a
     * SDK 미디에이션 초기화 관련 로직 변경
       
@@ -136,6 +139,9 @@
     * mopub custom network report 기능 변경
 
   # 2. iOS ChangeLog 
+  - 2.5.7
+    * NAM 네이티브 광고 숨김 처리 관련 이벤트 추가
+      
   - 2.5.6
     * 전면 광고 백그라운드 색상 변경 옵션 추가
       
