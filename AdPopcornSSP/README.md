@@ -139,6 +139,9 @@
     * mopub custom network report 기능 변경
 
   # 2. iOS ChangeLog 
+  - 2.5.8
+    * UnityAds 전면 미디에이션 추가
+    
   - 2.5.7
     * NAM 네이티브 광고 숨김 처리 관련 이벤트 추가
       
