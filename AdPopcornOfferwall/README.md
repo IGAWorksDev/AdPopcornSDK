@@ -1,5 +1,8 @@
 # AdPopcorn Offerwall SDK
   # 1. Android ChangeLog
+- 8.2.6a
+    * 원스토어 문구 커스터마이징
+      
   - 8.2.5a
     * 간편적립 네이티브 커스텀 연동 시, 뉴스 참여 불가 이슈 수정
     * 웹툰 닫기 관련 스크립트 추가
