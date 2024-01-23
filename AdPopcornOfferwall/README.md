@@ -1,6 +1,6 @@
 # AdPopcorn Offerwall SDK
   # 1. Android ChangeLog
-- 8.2.6a
+  - 8.2.6a
     * 원스토어 문구 커스터마이징
       
   - 8.2.5a
