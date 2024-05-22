@@ -1,7 +1,41 @@
 # AdPopcorn SSP SDK
   # 1. Android ChangeLog
+  - 3.5.0a
+     * 콘텐츠형 광고 타입 추가
+     * AdFit Native click 이벤트 추가
+     * NAM 네이티브 광고 영역 터치 옵션 추가
+     
+  - 3.4.1a
+     * tapjoy 호환 크래시 이슈 13.3.0 업데이트
+     
+  - 3.4.0a
+     * 리스트뷰 내에서 애드팝콘 네이티브 No Ad 시, privacy icon 히든 처리.
+     * 템플릿 privacy icon margin 옵션 추가
+    
+  - 3.3.9a
+     * 애드팝콘 네이티브 No Ad 시, privacy icon 히든 처리.
+
+  - 3.3.8a
+     * AdFit Native Body View Id 연결 오류 수정
+     * RoundedImageView 오류 대응
+
+  - 3.3.7a
+    * 네이티브 템플릿 커스터마이징 옵션 추가
+	  * modal Ad 광고 타입 추가
+
+  - 3.3.6a
+    * AppLovin 초기화 옵션 적용 안되는 이슈 대응(앱러빈 코드 snippet 사항으로 적용)
+    * UID 2.0 API 업데이트
+  - 3.3.5a
+    * NAM impression 측정 관련 추가 옵션 대응(배너, 네이티브) v7.2.0 대응
+    * 로그 활성화 API 추가
+    * consumer-proguard rule 추가
+
+  - 3.3.4a
+    * 벙글 v7 업데이트 대응
+
   - 3.3.3a
-    * NAM 네이티브 광고 숨김 처리 관련 이벤트 추가
+    * NAM 네이티브 광고 숨김 처리 관련 이벤트 추가
       
   - 3.3.2a
     * SDK 미디에이션 초기화 관련 로직 변경
@@ -139,6 +173,23 @@
     * mopub custom network report 기능 변경
 
   # 2. iOS ChangeLog 
+  - 2.6.5
+    * 모달 광고 타입 추가
+    * UID 2.0 API 추가
+    * Vungle Native 광고 추가
+
+  - 2.6.4
+    * AP SSP 네이티브 템플릿 커스터마이징 옵션 추가
+
+  - 2.6.2
+    * Privacy Manifest 포함
+
+  - 2.6.0
+    * 하이브리드 웹뷰 연동 타입 시, 한 화면에서 연속으로 광고 호출 시, 광고 미노출 이슈 수정
+
+  - 2.5.9
+    * 미디에이션 어댑터 memory leak 이슈 수정
+
   - 2.5.8
     * UnityAds 전면 미디에이션 추가
     
