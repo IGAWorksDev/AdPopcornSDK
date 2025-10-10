@@ -1,5 +1,13 @@
 # AdPopcorn Offerwall SDK
   # 1. Android ChangeLog
+  - 9.2.2a
+    * openOfferwall, openBridge 등 액티비티 intent New Task 옵션 처리 방식 변경
+      
+  - 9.2.1a
+    * target API 36 적용
+    * API 36 EdgeToEdge 적용 시, navi, status bar color 변경 로직 추가
+	* EdgeToEdge 가로모드 padding 설정 추가
+      
   - 9.2.0a
     * 네이티브 광고 개편
     * 레거시 광고 타입 제거
